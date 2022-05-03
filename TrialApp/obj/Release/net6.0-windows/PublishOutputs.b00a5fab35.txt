@@ -1,0 +1,5 @@
+C:\Users\Desktop\Documents\GitHub\TrackLayoutUpdate\published\TrialApp.exe
+C:\Users\Desktop\Documents\GitHub\TrackLayoutUpdate\published\TrialApp.dll
+C:\Users\Desktop\Documents\GitHub\TrackLayoutUpdate\published\TrialApp.deps.json
+C:\Users\Desktop\Documents\GitHub\TrackLayoutUpdate\published\TrialApp.runtimeconfig.json
+C:\Users\Desktop\Documents\GitHub\TrackLayoutUpdate\published\TrialApp.pdb
